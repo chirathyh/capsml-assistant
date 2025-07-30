@@ -2,7 +2,9 @@
 
 # CAPSML-ASSISTANT
 
-An assistant designed to interactively answer research questions by retrieving, summarizing, and integrating information from PDFs, websites, and GitHub repositories. Built with LangGraph, LangChain, and Streamlit, it demonstrates how agentic workflows can be orchestrated using open-source LLMs (e.g., via Ollama).
+An assistant designed to interactively answer questions about a project by retrieving, summarizing, and integrating information from PDFs, websites, and GitHub repositories. Built with LangGraph, LangChain, and Streamlit, it demonstrates how agentic workflows can be orchestrated using open-source LLMs (e.g., via Ollama).
+
+![pipeline](img/pipeline.png)
 
 ---
 
@@ -13,7 +15,7 @@ An assistant designed to interactively answer research questions by retrieving, 
 1. **Create and activate a Python 3.11.5 virtual environment**.
 2. Clone the repository:
    ```bash
-   git clone git@github.com:RL4H/RL4T1D.git
+   git clone git@github.com:chirathyh/capsml-assistant.git
    cd capsml-assistant
    ```
 3. Install required dependencies:
