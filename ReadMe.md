@@ -1,8 +1,8 @@
 &#x20;&#x20;
 
-# ASSISTANT: A Simple Assistant for CAPSML
+# CAPSML-ASSISTANT
 
-**ASSISTANT** is an AI-powered research assistant designed to interactively answer research questions by retrieving, summarizing, and integrating information from PDFs, websites, and GitHub repositories. Built with LangGraph, LangChain, and Streamlit, it demonstrates how agentic workflows can be orchestrated using open-source LLMs (e.g., via Ollama).
+An assistant designed to interactively answer research questions by retrieving, summarizing, and integrating information from PDFs, websites, and GitHub repositories. Built with LangGraph, LangChain, and Streamlit, it demonstrates how agentic workflows can be orchestrated using open-source LLMs (e.g., via Ollama).
 
 ---
 
